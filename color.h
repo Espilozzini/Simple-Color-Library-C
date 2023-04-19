@@ -1,7 +1,6 @@
 #ifndef COLOR2_H_
 #define COLOR2_H_
 
-
 void colorPrint(char text[], int mode);
 
 /*Define colors*/
