@@ -30,4 +30,3 @@ The types this library suports are:
 - Bold
 - Underline
 - Inverse
-\
