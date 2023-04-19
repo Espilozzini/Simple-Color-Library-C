@@ -1,5 +1,5 @@
-#ifndef COLOR2_H_
-#define COLOR2_H_
+#ifndef COLOR_H_
+#define COLOR_H_
 
 void colorPrint(char text[], int mode);
 
@@ -19,4 +19,4 @@ void colorPrint(char text[], int mode);
 #define UNDERLINE 16
 #define INVERSE 24
 
-#endif /* COLOR2_H_ */
+#endif /* COLOR_H_ */
