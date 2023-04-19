@@ -1,1 +1,1 @@
-# Simple-Color-Library-C
+# Simple Color Library-C
